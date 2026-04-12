@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- THW Blue Background -->
+  <rect width="512" height="512" rx="128" fill="#00549f"/>
+  
+  <g transform="translate(64, 64) scale(0.75)">
+    <!-- Centrifugal Pump Housing (Grey) -->
+    <path d="M80 80 L 180 80 L 180 160 C 320 160 440 260 440 400 C 440 500 340 500 280 500 L 280 540 L 180 540 L 180 500 C 80 500 20 400 20 300 L 20 80 Z" fill="#94a3b8" stroke="#0f172a" stroke-width="24" stroke-linejoin="round"/>
+    
+    <!-- Flanges -->
+    <rect x="60" y="40" width="140" height="40" rx="10" fill="#64748b" stroke="#0f172a" stroke-width="24"/>
+    <rect x="160" y="540" width="140" height="40" rx="10" fill="#64748b" stroke="#0f172a" stroke-width="24"/>
+
+    <!-- Impeller (THW Light Blue) -->
+    <path d="M230 200 L 270 240 L 320 230 L 310 280 L 360 310 L 310 340 L 320 390 L 270 380 L 230 420 L 190 380 L 140 390 L 150 340 L 100 310 L 150 280 L 140 230 L 190 240 Z" fill="#0ea5e9" stroke="#0f172a" stroke-width="20" stroke-linejoin="round"/>
+    
+    <!-- Center Hub -->
+    <circle cx="230" cy="310" r="40" fill="#0f172a"/>
+    <circle cx="230" cy="310" r="15" fill="#94a3b8"/>
+  </g>
+</svg>

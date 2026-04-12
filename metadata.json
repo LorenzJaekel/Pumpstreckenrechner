@@ -1,0 +1,5 @@
+{
+  "name": "Pumpstreckenrechner",
+  "description": "Professioneller Rechner für Pumpstrecken und Druckverluste im Katastrophenschutz (THW) und Feuerwehreinsatz.",
+  "requestFramePermissions": ["geolocation"]
+}
