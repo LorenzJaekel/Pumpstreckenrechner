@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Background Indigo -->
+  <rect width="512" height="512" rx="128" fill="#4f46e5"/>
+  
+  <g transform="translate(0, 0)" stroke="white" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M 250 80 C 350 80, 420 150, 420 250 C 420 350, 350 420, 250 420 C 150 420, 80 350, 80 250 C 80 150, 150 80, 250 80 M 250 80 L 450 80 L 450 180 L 390 180" />
+    <circle cx="250" cy="250" r="100" stroke-width="24"/>
+    <rect x="450" y="70" width="40" height="120" rx="8" fill="white" stroke="none"/>
+    <path d="M 160 420 L 340 420 L 380 480 L 120 480 Z" fill="white" stroke="none"/>
+    <circle cx="250" cy="250" r="25" fill="white" stroke="none"/>
+  </g>
+</svg>
